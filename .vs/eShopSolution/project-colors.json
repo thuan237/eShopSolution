@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "47bad362-c305-45a9-a85c-ce3573700675": {
+      "ProjectGuid": "47bad362-c305-45a9-a85c-ce3573700675",
+      "DisplayName": "eShopSolution.WebApp",
+      "ColorIndex": 0
+    },
+    "1726eec9-9fe6-469a-9c63-66d61ea140de": {
+      "ProjectGuid": "1726eec9-9fe6-469a-9c63-66d61ea140de",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
