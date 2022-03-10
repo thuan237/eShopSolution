@@ -10,7 +10,17 @@
       "ProjectGuid": "1726eec9-9fe6-469a-9c63-66d61ea140de",
       "DisplayName": "Solution Items",
       "ColorIndex": 1
+    },
+    "5bd6fcfb-8e22-4737-8cbe-0ecc5e7d2e92": {
+      "ProjectGuid": "5bd6fcfb-8e22-4737-8cbe-0ecc5e7d2e92",
+      "DisplayName": "eShopSolution.Data",
+      "ColorIndex": 2
+    },
+    "56ba5456-1e2b-44e7-a0f1-b0cf56c4897d": {
+      "ProjectGuid": "56ba5456-1e2b-44e7-a0f1-b0cf56c4897d",
+      "DisplayName": "eShopSolution.Application",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }
